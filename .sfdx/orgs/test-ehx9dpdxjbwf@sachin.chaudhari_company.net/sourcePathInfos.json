@@ -1,0 +1,283 @@
+[
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1511211357000,
+            "changeTime": 1511211357000,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1511211357000,
+            "changeTime": 1511211357000,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "ffeb34df6ce5d59bf776b0df724e7eb49a6ba606"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1511211276000,
+            "changeTime": 1511211276000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1511211504000,
+            "changeTime": 1511211504000,
+            "contentHash": "9f80c4a0c54275d0c05dd8b461ae5ebcb3bd8805",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17055,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "de0f267ee8bf31a93f84c4a779bffad0658bcade"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4369,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "3ddd9cef9ff7e4457b775b5a3b120e1e051abe80"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4373,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "ac146ad4828da47bb2a3e45e664ddaef1e1aaf9d"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4709,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "e438db80e4aeeecbf992be6e83d759c571b35faf"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511212074000,
+            "changeTime": 1511212074000,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
