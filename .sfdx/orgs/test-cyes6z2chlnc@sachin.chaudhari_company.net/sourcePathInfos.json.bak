@@ -49,11 +49,11 @@
             "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 272,
-            "modifiedTime": 1512450847000,
-            "changeTime": 1512450847000,
+            "size": 238,
+            "modifiedTime": 1512450497000,
+            "changeTime": 1512450497000,
             "isWorkspace": false,
-            "contentHash": "23660167a0fa4569f0c9187c3e1280d8bd7ba165"
+            "contentHash": "1b1fce203cd22730aa6e8cc0c24ecbdcc21bc70f"
         }
     ],
     [
@@ -354,14 +354,14 @@
     [
         "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 181,
             "modifiedTime": 1512450622000,
             "changeTime": 1512450622000,
-            "contentHash": "e8f90c6c8fba75814101637eda024cf2582b29b6",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e8f90c6c8fba75814101637eda024cf2582b29b6"
         }
     ],
     [
@@ -484,14 +484,14 @@
     [
         "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
+            "size": 341,
+            "modifiedTime": 1512448637000,
+            "changeTime": 1512448637000,
+            "contentHash": "54fba69395bda7b5f07d7683a0e698a0749fecfb",
             "isMetadataFile": false,
-            "size": 544,
-            "modifiedTime": 1512451090000,
-            "changeTime": 1512451090000,
-            "contentHash": "1bee206e640b5bd8e178eee1e15f5f5b54a0d342"
+            "state": "u"
         }
     ],
     [
@@ -523,14 +523,14 @@
     [
         "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1512448663000,
+            "changeTime": 1512448663000,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
             "isMetadataFile": false,
-            "size": 395,
-            "modifiedTime": 1512451128000,
-            "changeTime": 1512451128000,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "state": "u"
         }
     ],
     [
@@ -822,14 +822,14 @@
     [
         "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
         {
+            "state": "u",
             "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1512450497000,
             "changeTime": 1512450497000,
-            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
         }
     ],
     [
@@ -839,36 +839,36 @@
             "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 332,
-            "modifiedTime": 1512451169000,
-            "changeTime": 1512451169000,
-            "contentHash": "12954df15223e8b8167f04cecfa5060b15107907"
+            "size": 260,
+            "modifiedTime": 1512450536000,
+            "changeTime": 1512450536000,
+            "contentHash": "942ff45728b690d7ff605de9908ff0821a651669"
         }
     ],
     [
         "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1512450497000,
             "changeTime": 1512450497000,
-            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15"
         }
     ],
     [
         "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 42,
             "modifiedTime": 1512450590000,
             "changeTime": 1512450590000,
-            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c"
         }
     ],
     [
@@ -878,75 +878,36 @@
             "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 833,
-            "modifiedTime": 1512451203000,
-            "changeTime": 1512451203000,
-            "contentHash": "66b62a139b9cca8204da084c582323079ab70ffe"
+            "size": 379,
+            "modifiedTime": 1512450566000,
+            "changeTime": 1512450566000,
+            "contentHash": "03c2ff940a77f739be3be834b08d71acb5ef1c83"
         }
     ],
     [
         "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1512450497000,
             "changeTime": 1512450497000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1512450497000,
             "changeTime": 1512450497000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 136,
-            "modifiedTime": 1512450847000,
-            "changeTime": 1512450847000,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 100,
-            "modifiedTime": 1512450991000,
-            "changeTime": 1512450991000,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
-        }
-    ],
-    [
-        "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/sachin.chaudhari/git/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1512450847000,
-            "changeTime": 1512450847000,
-            "contentHash": "b69047ac083bd9c2a693a13cb3f5f7c31edcd663"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
